@@ -93,6 +93,7 @@ footer .container{min-height:80px;display:flex;justify-content:center;align-item
   header .logo {
     text-align: center;
     width: 100%;
+    display: block;
   }
 }
 
